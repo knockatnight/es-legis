@@ -27,7 +27,7 @@ status: in-force
 
 ## Artículo 318 bis.
 
-1. El que, directa o indirectamente, promueva, favorezca o facilite el tráfico ilegal o la inmigración clandestina de personas desde, en tránsito o con destino a España, será castigado con la pena de cuatro a ocho años de prisión.
+1. El que, directa o indirectamente, promueva, favorezca o facilite el tráfico ilegal o la inmigración clandestina de personas desde, en tránsito o con destino a España, o con destino a otro país de la Unión Europea, será castigado con la pena de cuatro a ocho años de prisión.
 
 2. Si el propósito del tráfico ilegal o la inmigración clandestina fuera la explotación sexual de las personas, serán castigados con la pena de cinco a 10 años de prisión.
 
@@ -43,5 +43,6 @@ En los supuestos previstos en este apartado la autoridad judicial podrá decreta
 
 6. Los tribunales, teniendo en cuenta la gravedad del hecho y sus circunstancias, las condiciones del culpable y la finalidad perseguida por éste, podrán imponer la pena inferior en un grado a la respectivamente señalada.
 
+> Se modifica el apartado 1 por el art. 2.2 de la Ley Orgánica 13/2007, de 19 de noviembre. [Ref. BOE-A-2007-19879](https://www.boe.es/buscar/act.php?id=BOE-A-2007-19879)
 > Se modifica por el art. 1.13 de la Ley Orgánica 11/2003, de 29 de septiembre. [Ref. BOE-A-2003-18088](https://www.boe.es/buscar/act.php?id=BOE-A-2003-18088)
 > Se añade por la disposición final 2 de la Ley Orgánica 4/2000, de 11 de enero. [Ref. BOE-A-2000-544](https://www.boe.es/buscar/act.php?id=BOE-A-2000-544)
