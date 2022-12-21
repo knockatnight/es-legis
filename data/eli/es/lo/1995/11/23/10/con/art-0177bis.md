@@ -53,6 +53,8 @@ a) se hubiera puesto en peligro la vida o la integridad física o psíquica de l
 
 b) la víctima sea especialmente vulnerable por razón de enfermedad, estado gestacional, discapacidad o situación personal, o sea menor de edad.
 
+c) la víctima sea una persona cuya situación de vulnerabilidad haya sido originada o agravada por el desplazamiento derivado de un conflicto armado o una catástrofe humanitaria.
+
 Si concurriere más de una circunstancia se impondrá la pena en su mitad superior.
 
 5. Se impondrá la pena superior en grado a la prevista en el apartado 1 de este artículo e inhabilitación absoluta de seis a doce años a los que realicen los hechos prevaliéndose de su condición de autoridad, agente de ésta o funcionario público. Si concurriere además alguna de las circunstancias previstas en el apartado 4 de este artículo se impondrán las penas en su mitad superior.
@@ -71,6 +73,7 @@ Cuando se trate de los jefes, administradores o encargados de dichas organizacio
 
 11. Sin perjuicio de la aplicación de las reglas generales de este Código, la víctima de trata de seres humanos quedará exenta de pena por las infracciones penales que haya cometido en la situación de explotación sufrida, siempre que su participación en ellas haya sido consecuencia directa de la situación de violencia, intimidación, engaño o abuso a que haya sido sometida y que exista una adecuada proporcionalidad entre dicha situación y el hecho criminal realizado.
 
+> Se añade la letra c) al apartado 4 por el art. único de la Ley Orgánica 13/2022, de 20 de diciembre de 2022. [Ref. BOE-A-2022-21676#au](https://www.boe.es/buscar/act.php?id=BOE-A-2022-21676)
 > Se modifica el apartado 1 por la disposición final 6.17 de la Ley Orgánica 8/2021, de 4 de junio. [Ref. BOE-A-2021-9347#df-6](https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347)
 > Se modifican los apartados 1 y 4 por el art. único.94 de la Ley Orgánica 1/2015, de 30 de marzo. [Ref. BOE-A-2015-3439](https://www.boe.es/buscar/act.php?id=BOE-A-2015-3439).
 > Se añade por el art. único.40 de la Ley Orgánica 5/2010, de 22 de junio. [Ref. BOE-A-2010-9953](https://www.boe.es/buscar/act.php?id=BOE-A-2010-9953)
