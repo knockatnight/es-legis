@@ -1,0 +1,19 @@
+boe_id: BOE-A-1889-4763
+eli:title: Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil.
+eli:publisher: Ministerio de Gracia y Justicia
+eli:date_document: 1889-07-24
+eli:date_publication: 1889-07-25
+eli:jurisdiction: es
+eli:type_document: rd
+ambito:
+  codigo: '1'
+  texto: Estatal
+rango:
+  codigo: '1340'
+  texto: Real Decreto
+estado_consolidacion:
+  codigo: '3'
+  texto: Finalizado
+status: in-force
+diario: Gaceta de Madrid
+diario_numero: '206'
