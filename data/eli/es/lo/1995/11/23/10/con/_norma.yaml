@@ -1,0 +1,20 @@
+boe_id: BOE-A-1995-25444
+eli:title: Ley Orgánica 10/1995, de 23 de noviembre, del Código Penal.
+eli:publisher: Jefatura del Estado
+eli:date_document: 1995-11-23
+eli:date_publication: 1995-11-24
+eli:jurisdiction: es
+eli:type_document: lo
+eli:number: '10'
+ambito:
+  codigo: '1'
+  texto: Estatal
+rango:
+  codigo: '1290'
+  texto: Ley Orgánica
+estado_consolidacion:
+  codigo: '3'
+  texto: Finalizado
+status: in-force
+diario: Boletín Oficial del Estado
+diario_numero: '281'
