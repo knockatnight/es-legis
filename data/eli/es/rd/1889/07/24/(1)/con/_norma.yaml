@@ -17,3 +17,5 @@ estado_consolidacion:
 status: in-force
 diario: Gaceta de Madrid
 diario_numero: '206'
+fecha_actualizacion: 20260421T104720Z
+referencias_posteriores_sha256: cb83f6bbf8ead07aeb4123456029a49419c184e3a0f79d207efdc6bfeb163bd8
