@@ -18,3 +18,5 @@ estado_consolidacion:
 status: in-force
 diario: Boletín Oficial del Estado
 diario_numero: '281'
+fecha_actualizacion: 20260409T115613Z
+referencias_posteriores_sha256: a0e5e97d51cb0b90a199b4866bf7e6bb1b219d36e7e491048676d62ba45ec58b
